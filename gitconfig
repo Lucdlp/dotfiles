@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lucasdelpino64@gmail.com
+	name = lucas delpino
